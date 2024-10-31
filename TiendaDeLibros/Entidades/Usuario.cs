@@ -31,6 +31,7 @@ namespace TiendaDeLibros.Entidades
 		}
         #endregion
 
+
         #region propiedades/encapsulamiento
         public string nombre
         {
