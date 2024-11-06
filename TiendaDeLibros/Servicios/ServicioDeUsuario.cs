@@ -5,7 +5,7 @@ namespace TiendaDeLibros.Servicios
 {
 	public class ServicioDeUsuario
 	{
-		private List<Usuario> usuarios;
+		private List<> usuarios;
 
 		public ServicioDeUsuario() 
 		{

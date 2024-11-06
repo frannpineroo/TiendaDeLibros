@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
-
-namespace TiendaDeLibros.Entidades
+﻿namespace TiendaDeLibros.Entidades
 {
 	public class Usuario
 	{
