@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaDeLibros", "TiendaDeLibros\TiendaDeLibros.csproj", "{5DBD4DB9-3D37-4771-851E-E45E30E7863A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaDeLibros.Entidades", "TiendaDeLibros.Entidades\TiendaDeLibros.Entidades.csproj", "{B404DAD8-9D28-43EF-BB04-C7EDC3D2328A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5DBD4DB9-3D37-4771-851E-E45E30E7863A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBD4DB9-3D37-4771-851E-E45E30E7863A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBD4DB9-3D37-4771-851E-E45E30E7863A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B404DAD8-9D28-43EF-BB04-C7EDC3D2328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B404DAD8-9D28-43EF-BB04-C7EDC3D2328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B404DAD8-9D28-43EF-BB04-C7EDC3D2328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B404DAD8-9D28-43EF-BB04-C7EDC3D2328A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
